@@ -1,0 +1,75 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 450 >>
+stream
+BT
+/F1 14 Tf
+50 720 Td
+(Introduction to Retrieval-Augmented Generation) Tj
+/F1 11 Tf
+0 -30 Td
+(Retrieval-Augmented Generation, commonly known as RAG, combines information retrieval) Tj
+0 -18 Td
+(mechanisms with pre-trained generative language models. Instead of relying purely on static) Tj
+0 -18 Td
+(weights encoded during pre-training, a RAG system fetches relevant context dynamically from) Tj
+0 -18 Td
+(external vector databases and knowledge bases to ground responses in verifiable facts.) Tj
+0 -30 Td
+(Vector databases index high-dimensional embeddings generated from split text chunks.) Tj
+0 -18 Td
+(When a user query arrives, similarity search identifies the nearest semantic neighbors.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 480 >>
+stream
+BT
+/F1 14 Tf
+50 720 Td
+(LangChain and Chroma Architecture) Tj
+/F1 11 Tf
+0 -30 Td
+(LangChain provides modular components including Document Loaders, Text Splitters, and) Tj
+0 -18 Td
+(Vector Stores. The RecursiveCharacterTextSplitter splits documents hierarchically using) Tj
+0 -18 Td
+(character boundaries like double newlines, single newlines, spaces, and individual characters.) Tj
+0 -30 Td
+(Chroma is an open-source AI-native embedding database designed for developer simplicity.) Tj
+0 -18 Td
+(It runs in-memory or persists locally to disk, allowing fast approximate nearest neighbor search.) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000124 00000 n 
+0000000251 00000 n 
+0000000754 00000 n 
+0000000827 00000 n 
+0000000954 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1487
+%%EOF
